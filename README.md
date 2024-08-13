@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi👋, I'm Natalia Ercolano 💻
 
+You can find me 🌍:
+- [Linkedin] (www.linkedin.com/in/natalia-ercolano-4a0065137)
+- Email 📧 ercolanonatalia@gmail.com
 <!--
 **NatiErco/NatiErco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
