@@ -1,5 +1,7 @@
 ## Hi👋, I'm Natalia Ercolano 💻
 
+Junior Fullstack Developer with a passion for creating dynamic web solutions, experienced in both frontend and backend technologies.
+
 You can find me 🌍:
 - [Linkedin] (www.linkedin.com/in/natalia-ercolano-4a0065137)
 - Email 📧 ercolanonatalia@gmail.com
