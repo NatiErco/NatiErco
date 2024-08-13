@@ -1,4 +1,4 @@
-## Hi👋, I'm Natalia Ercolano 💻
+## Hi👋, I'm Natalia Ercolano 👩‍💻
 
 Junior Fullstack Developer with a passion for creating dynamic web solutions, experienced in both frontend and backend technologies.
 
