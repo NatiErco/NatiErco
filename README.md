@@ -3,8 +3,8 @@
 Junior Fullstack Developer with a passion for creating dynamic web solutions, experienced in both frontend and backend technologies.
 
 You can find me 🌍:
-- [Linkedin](https://linkedin.com/in/natalia-ercolano-4a0065137)
-- Email 📧 ercolanonatalia@gmail.com
+ - [Linkedin](https://linkedin.com/in/natalia-ercolano-4a0065137)
+
 <!--
 **NatiErco/NatiErco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
